@@ -5,7 +5,8 @@ Catches errors and incorrect inputs and is broken down into 3 functions.
 
 Next on the agenda and how it will be improved:
 1. Implement a CPU player, so you can play alone
+   DONE: Implemented a very basic hardcoded CPU, it is not great and easily trickable. Not sure how minmax works just yet or how to implement it to a text based function.
 
-2. Implement a GUI, for more visuals
+3. Implement a GUI, for more visuals
 
-3. Create a scoreboard
+4. Create a scoreboard
